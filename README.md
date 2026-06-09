@@ -1,2 +1,2 @@
 # Vencord-Installer
-installer of vencord discord modification 
+Run Vencord and click Install\Patch
